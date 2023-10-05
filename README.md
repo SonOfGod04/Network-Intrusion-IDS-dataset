@@ -1,2 +1,2 @@
-# Network-Intrusion-IDS2018-dataset
+# Network-Intrusion-detection-system-for-IDS2018
 The IDS2018 dataset stands as a significant resource in the realm of network intrusion detection. Crafted for the purpose of advancing intrusion detection systems (IDS), it has become a pivotal component in the study of network security. IDS2018 captures a wide spectrum of network traffic data, spanning both benign and malicious activities. With its diverse network protocols, connection types, and predefined intrusion classes, it provides a realistic and complex environment for analysis and model development. This dataset has gained prominence in research, benchmarking, and educational contexts, solidifying its role in enhancing network security.
